@@ -4,15 +4,6 @@ import requests
 import re
 #import sys
 
-#line = " some text [2223] IPO Price: 11.50$ Number Shares: 12,218,750 IPO Unit: 10$ another text and numbers ,.,."
-#site_full = requests.get('https://sec.report/Document/0001193125-21-056708/d28906ds1a.htm')
-
-#object = site_full.text
-#object =
-#print(object)
-#y = urllib.requests.urlopen('https://sec.report/Document/0001193125-21-056708/d28906ds1a.htm')
-#print(y.read)
-
 
 from urllib.request import Request, urlopen
 
